@@ -55,13 +55,17 @@ img {
 .SEATS{
     text-align: left;
     width: 75%;
-    font-weight: bold;
+    color: blue;
+    font-weight: normal;
+    font-family: impact;
     text-decoration: underline;
 }
 .PRICE{
     text-align: right;
     width: 25%;
-    font-weight: bold;
+    color: blue;
+    font-weight: normal;
+    font-family: impact;
     text-decoration: underline;
 }
 .price {
