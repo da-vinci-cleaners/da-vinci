@@ -107,7 +107,13 @@ a:active{
     font-size: 20px;
     color:darkmagenta
 }
-.contact{
+.info{
     font-size: 18px;
     font-weight: bold;
+}
+.contact{
+    font-size: 20px;
+    font-family: Impact;
+    font-weight: normal;
+    color: rgb(6, 6, 248);
 }
