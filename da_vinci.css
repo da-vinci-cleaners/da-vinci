@@ -1,0 +1,113 @@
+h1, h2, h3, p{
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: Impact;
+}
+h1{
+    font-size: 40px;
+    margin-top: 0;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 20px;
+}
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background-image: url(../../DA-VINCICLEANERS/IMG-20241204-WA0007.jpg)
+}
+
+.mission{
+    font-style: italic;
+    color: blueviolet;
+}
+
+hr {
+    height: 3px;
+    background-color: brown;
+    border-color: brown;
+}
+
+.pricing {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(198, 166, 72, 0.555);
+    width: 100%;
+    max-width: 500px; /*this ensures that the contents on the right are not far apart from those on the left on a wide screen*/
+    padding: 20px; /*this is the distance from the sides of the page to the content*/
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.seats, .mattress, .carpet, .size_of_house, .deep_cleaning, .post_construction {
+    text-align: left;
+    width: 75%;
+}
+.SEATS{
+    text-align: left;
+    width: 75%;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.PRICE{
+    text-align: right;
+    width: 25%;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+.item p {
+    display: inline-block; 
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+
+}
+
+.bottom-line {
+    margin-top: 25px;
+}
+
+/*FOOTER*/
+footer {
+    font-size: 14px;
+}
+
+a {
+    color: black;
+
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: white;
+}
+a:active{
+    color: white;
+}
+.address{
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-style: inherit;
+    font-family: Impact;
+    font-size: 20px;
+    color:darkmagenta
+}
+.contact{
+    font-size: 18px;
+    font-weight: bold;
+}
